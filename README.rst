@@ -509,6 +509,7 @@ and IIS for Windows.
 * The server parses the file according to the handler. If Google
   is running on PHP, the server uses PHP to interpret the index file, and
   streams the output to the client.
+<a href="https://imgur.com/TRqTFye"><img src="https://i.imgur.com/TRqTFye.png" title="source: imgur.com" /></a>
 
 Behind the scenes of the Browser
 ----------------------------------
